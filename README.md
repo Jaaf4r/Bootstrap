@@ -1,2 +1,1 @@
-|	Bootstrap Project Websites	|
-|_______________________________________|
+Bootstrap Project Websites
